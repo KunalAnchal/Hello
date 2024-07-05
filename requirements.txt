@@ -1,2 +1,13 @@
-Flask==2.0.3
+
 gunicorn==20.1.0
+flask
+pandas
+matplotlib>=3.2.2
+numpy>=1.26.4
+seaborn
+requests>=2.23.0
+scipy>=1.4.1
+filterpy==1.4.5
+scikit-image==0.19.3
+scikit-learn
+openpyxl==3.0.9
